@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Enes :
 👨‍💻Web Developer<br>🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about <br>
 
 
