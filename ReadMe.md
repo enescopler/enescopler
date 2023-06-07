@@ -1,4 +1,6 @@
-#                          Hi, I'm Enes 
+<h1 align="center">
+	Hi, I'm Enes <img src="https://media2.giphy.com/media/6qZGWX9WcllbDiUyZz/giphy.gif?cid=790b76115934b2fb0c9ca177bb836038d7b68876e0c3daaa&rid=giphy.gif&ct=s" width="60">
+</h1>
 [![](https://visitcount.itsvg.in/api?id=enescopler&icon=5&color=2)](https://visitcount.itsvg.in)
 <br>
 👨‍💻Web Developer<br>🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about <br>
