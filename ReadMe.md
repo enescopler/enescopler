@@ -1,6 +1,7 @@
 # Hi, I'm Enes :
 👨‍💻Web Developer<br>🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about <br>
 
+[![](https://visitcount.itsvg.in/api?id=enescopler&icon=5&color=2)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twitter.com/enescopler) 
@@ -10,6 +11,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=enescopler&icon=5&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
