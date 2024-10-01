@@ -5,7 +5,11 @@
 [![](https://visitcount.itsvg.in/api?id=enescopler&icon=5&color=2)](https://visitcount.itsvg.in)
 
 
-👨‍💻Web Developer<br>🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about <br>
+- 👨‍💻Web Developer
+- 🔭 I’m currently working on
+- 🤝 I’m looking for help with
+- 🌱 I’m currently learning
+- 💬 Ask me about <br>
 
 
 # 💻 Tech Stack:
