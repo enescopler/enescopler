@@ -5,7 +5,8 @@
 [![](https://visitcount.itsvg.in/api?id=enescopler&icon=5&color=2)](https://visitcount.itsvg.in)
 
 
-- 👨‍💻Web Developer
+- 👨‍💻 Web Developer
+- 🖥 Front-End Dev
 - 🔭 I’m currently working on
 - 🤝 I’m looking for help with
 - 🌱 I’m currently learning
